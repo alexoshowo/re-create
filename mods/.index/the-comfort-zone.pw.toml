@@ -1,0 +1,13 @@
+filename = 'TheComfortZone-1.20.1-4.1.0.jar'
+name = 'The Comfort Zone'
+side = 'both'
+
+[download]
+hash = 'c68c520602cf0c34e9970fea75e71f262cbc0512fe1543f8040079b808b4a8073a2ec66bf4a40d8aa6e5bc1c13e7c7664deca455e962648d4a214d71c38152f5'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/GQ5iXQsh/versions/LdyHKM4D/TheComfortZone-1.20.1-4.1.0.jar'
+
+[update.modrinth]
+mod-id = 'GQ5iXQsh'
+version = 'LdyHKM4D'

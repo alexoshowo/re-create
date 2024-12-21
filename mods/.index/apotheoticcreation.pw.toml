@@ -1,0 +1,13 @@
+filename = 'apotheoticcreation-1.0.1.jar'
+name = 'Apotheotic Creation'
+side = 'both'
+
+[download]
+hash = '2b0f47aa29167af103ffe875dae06bcbdca55b98dad0c63e2b7177677fe3899cbb22f5e4a41b1e856814ab08f3f1bce109a0a72da2ccd748f814ddfd5b51591b'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/RmI01fbW/versions/LpSKC8u3/apotheoticcreation-1.0.1.jar'
+
+[update.modrinth]
+mod-id = 'RmI01fbW'
+version = 'LpSKC8u3'

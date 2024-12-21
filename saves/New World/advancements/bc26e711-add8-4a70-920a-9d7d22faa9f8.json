@@ -499,14 +499,15 @@
   "immersive_weathering:immersive_weathering/dirts": {
     "criteria": {
       "grass": "2024-12-03 18:02:03 +0200",
+      "dirt": "2024-12-21 19:21:30 +0200",
       "silt": "2024-12-06 20:59:02 +0200",
       "loam": "2024-12-06 20:55:38 +0200"
     },
     "done": false
   },
-  "tombstone:recipes/from_grave_key": {
+  "tombstone:adventure/christmas": {
     "criteria": {
-      "has_ingredient": "2024-12-06 20:40:58 +0200"
+      "coded_trigger": "2024-12-06 20:31:47 +0200"
     },
     "done": true
   },
@@ -516,57 +517,9 @@
     },
     "done": true
   },
-  "apotheosis:affix/gem": {
+  "tombstone:recipes/from_grave_key": {
     "criteria": {
-      "gem": "2024-12-06 20:53:37 +0200"
-    },
-    "done": true
-  },
-  "create:wrench_goggles": {
-    "criteria": {
-      "1": "2024-12-06 20:52:04 +0200"
-    },
-    "done": false
-  },
-  "apotheosis:affix/rare_gem": {
-    "criteria": {
-      "gem": "2024-12-06 20:53:37 +0200"
-    },
-    "done": true
-  },
-  "tombstone:adventure/christmas": {
-    "criteria": {
-      "coded_trigger": "2024-12-06 20:31:47 +0200"
-    },
-    "done": true
-  },
-  "immersive_armors:recipes/misc/bone": {
-    "criteria": {
-      "has_item": "2024-12-06 20:41:25 +0200"
-    },
-    "done": true
-  },
-  "tombstone:adventure/teleport_to_grave": {
-    "criteria": {
-      "coded_trigger": "2024-12-06 20:41:03 +0200"
-    },
-    "done": true
-  },
-  "tombstone:recipes/from_grave_dust": {
-    "criteria": {
-      "has_ingredient": "2024-12-06 20:46:22 +0200"
-    },
-    "done": true
-  },
-  "tombstone:adventure/cancel_ghostly_shape": {
-    "criteria": {
-      "coded_trigger": "2024-12-06 20:44:15 +0200"
-    },
-    "done": true
-  },
-  "tombstone:adventure/chain_death": {
-    "criteria": {
-      "coded_trigger": "2024-12-06 20:42:03 +0200"
+      "has_ingredient": "2024-12-06 20:40:58 +0200"
     },
     "done": true
   },
@@ -576,9 +529,57 @@
     },
     "done": true
   },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2024-12-06 20:41:03 +0200"
+    },
+    "done": true
+  },
   "tombstone:adventure/first_knowledge": {
     "criteria": {
       "coded_trigger": "2024-12-06 20:41:03 +0200"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/bone": {
+    "criteria": {
+      "has_item": "2024-12-06 20:41:25 +0200"
+    },
+    "done": true
+  },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2024-12-06 20:42:03 +0200"
+    },
+    "done": true
+  },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2024-12-06 20:44:15 +0200"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_grave_dust": {
+    "criteria": {
+      "has_ingredient": "2024-12-06 20:46:22 +0200"
+    },
+    "done": true
+  },
+  "create:wrench_goggles": {
+    "criteria": {
+      "1": "2024-12-06 20:52:04 +0200"
+    },
+    "done": false
+  },
+  "apotheosis:affix/gem": {
+    "criteria": {
+      "gem": "2024-12-06 20:53:37 +0200"
+    },
+    "done": true
+  },
+  "apotheosis:affix/rare_gem": {
+    "criteria": {
+      "gem": "2024-12-06 20:53:37 +0200"
     },
     "done": true
   },
@@ -591,6 +592,165 @@
   "apotheosis:spawner/capturing": {
     "criteria": {
       "egg": "2024-12-06 20:57:56 +0200"
+    },
+    "done": true
+  },
+  "estrogen:root": {
+    "criteria": {
+      "root": "2024-12-13 23:32:31 +0200"
+    },
+    "done": true
+  },
+  "estrogen:uwu": {
+    "criteria": {
+      "uwu": "2024-12-13 23:33:19 +0200"
+    },
+    "done": true
+  },
+  "estrogen:estrogen_pill": {
+    "criteria": {
+      "estrogen_pill": "2024-12-13 23:33:57 +0200"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-12-13 23:34:00 +0200"
+    },
+    "done": true
+  },
+  "estrogen:estrogen_patches": {
+    "criteria": {
+      "estrogen_patches": "2024-12-13 23:34:32 +0200"
+    },
+    "done": true
+  },
+  "tombstone:adventure/mysterious_gift": {
+    "criteria": {
+      "coded_trigger": "2024-12-18 23:58:14 +0200"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/root": {
+    "criteria": {
+      "tick": "2024-12-18 23:58:15 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2024-12-19 00:03:29 +0200"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/wooden": {
+    "criteria": {
+      "has_item": "2024-12-19 00:03:48 +0200"
+    },
+    "done": true
+  },
+  "tetra:recipes/planks": {
+    "criteria": {
+      "got_wood": "2024-12-19 00:06:07 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2024-12-19 00:10:41 +0200"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/guano": {
+    "criteria": {
+      "guano": "2024-12-21 19:11:55 +0200"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/ride_nuclear_bomb": {
+    "criteria": {
+      "ride_a_boat_with_a_goat": "2024-12-21 19:23:47 +0200"
+    },
+    "done": true
+  },
+  "createbb:p1/obtain_white_stuff": {
+    "criteria": {
+      "requirement": "2024-12-21 19:14:25 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2024-12-21 18:49:01 +0200"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/nuclear_bomb": {
+    "criteria": {
+      "nuclear_bomb": "2024-12-21 19:18:58 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:husbandry/turn_table": {
+    "criteria": {
+      "unlock": "2024-12-21 18:59:08 +0200"
+    },
+    "done": true
+  },
+  "mekanism:alarm": {
+    "criteria": {
+      "industrial_alarm": "2024-12-21 19:00:47 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2024-12-21 19:21:17 +0200"
+    },
+    "done": true
+  },
+  "estrogen:liquid_estrogen": {
+    "criteria": {
+      "liquid_estrogen": "2024-12-21 19:16:37 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:creeper": "2024-12-21 19:31:37 +0200"
+    },
+    "done": false
+  },
+  "createbb:p2/obtain_liquid_blue_methamphetamine_bucket": {
+    "criteria": {
+      "requirement": "2024-12-21 19:13:49 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:creeper": "2024-12-21 19:31:37 +0200"
+    },
+    "done": true
+  },
+  "createbb:p1/obtain_sudafed": {
+    "criteria": {
+      "requirement": "2024-12-21 19:14:06 +0200"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/hazmat_armor": {
+    "criteria": {
+      "shirt": "2024-12-21 19:33:32 +0200",
+      "pants": "2024-12-21 19:33:33 +0200",
+      "helmet": "2024-12-21 19:33:31 +0200",
+      "boots": "2024-12-21 19:33:36 +0200"
+    },
+    "done": true
+  },
+  "createbb:ring_bell": {
+    "criteria": {
+      "requirement": "2024-12-21 19:14:16 +0200"
     },
     "done": true
   },

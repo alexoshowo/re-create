@@ -4,7 +4,10 @@
   "bookData": {
     "apotheosis:apoth_chronicle": {
       "viewedEntries": [
-        "apotheosis:garden/cactus"
+        "apotheosis:garden/cactus",
+        "apotheosis:spawner/capturing",
+        "apotheosis:garden/bamboo",
+        "apotheosis:adventure/affix_loot/gems"
       ],
       "bookmarks": [],
       "completedManualQuests": []

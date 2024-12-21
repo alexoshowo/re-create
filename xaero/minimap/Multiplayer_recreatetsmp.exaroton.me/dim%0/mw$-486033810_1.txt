@@ -1,0 +1,12 @@
+#
+#waypoint:name:initials:x:y:z:color:disabled:type:set:rotate_on_tp:tp_yaw:visibility_type:destination
+#
+waypoint:Корабль:К:-394:63:-497:8:false:0:gui.xaero_default:false:0:0:false
+waypoint:gui.xaero_deathpoint_old:D:-961:61:-741:0:false:2:gui.xaero_default:false:0:1:true
+waypoint:erenniger:E:-982:68:-1106:3:false:0:gui.xaero_default:false:0:0:false
+waypoint:dawsd:D:-1247:72:-1289:9:false:0:gui.xaero_default:false:0:0:false
+waypoint:Diorite:D:-1235:28:-1202:13:false:0:gui.xaero_default:false:0:0:false
+waypoint:V:V:-916:72:-1579:13:false:0:gui.xaero_default:false:0:0:false
+waypoint:AC Cabin:A:-766:-50:-1012:15:false:0:gui.xaero_default:false:0:0:false
+waypoint:Bdzoli:B:-894:74:-1165:4:false:0:gui.xaero_default:false:0:0:false
+waypoint:Дін:Д:-943:69:-1090:6:false:0:gui.xaero_default:false:0:0:false

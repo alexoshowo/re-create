@@ -1,0 +1,13 @@
+filename = 'alexsmobsinteraction-4.3-all.jar'
+name = 'Alexs Mobs Interaction'
+side = 'both'
+
+[download]
+hash = '4fea83db728d0123df0ac542e6658459758f970e4ff8ccfcc99265af30467110c843bac3d6f9e4c330a1ab1c3afc185bff36b0b2370f8667edf9dd9e0000d7ae'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/cQPcBgTD/versions/8uhVK4Kx/alexsmobsinteraction-4.3-all.jar'
+
+[update.modrinth]
+mod-id = 'cQPcBgTD'
+version = '8uhVK4Kx'

@@ -1,0 +1,13 @@
+filename = 'puffish_attributes-0.6.6-1.20-forge.jar'
+name = "Pufferfish's Attributes"
+side = 'both'
+
+[download]
+hash = 'a3d53ad11d1e5c87fd41dd8dc3375c894836a01cbf66a7d58a6f9c55dc7a8e1057dc5acafa812536feb9db21126839709c43589b6693d7fba64ca917529378ff'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/FCFcFw09/versions/FKzB2bPU/puffish_attributes-0.6.6-1.20-forge.jar'
+
+[update.modrinth]
+mod-id = 'FCFcFw09'
+version = 'FKzB2bPU'
